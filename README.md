@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohd AFFAn</h1>
+<h1 align="center">Hi 👋, I'm Mohd Affan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-affan-code&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-affan-code" /> </p>
