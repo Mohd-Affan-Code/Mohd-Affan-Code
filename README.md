@@ -1,28 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mohd Affan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Mohd Affan 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd-affan-code&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-affan-code" /> </p>
+🚀 **Frontend Developer** | React.js | Next.js | Tailwind CSS  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd-affan-code" alt="mohd-affan-code" /></a> </p>
+💡 Passionate about building modern, fast, and responsive web applications.  
+🌱 Currently exploring **Backend Development** and **Generative AI**.  
+🎯 Goal: To become a full-stack developer and build scalable AI-powered products.  
 
-- 🌱 I’m currently learning **Next.js**
+---
 
-- 👯 I’m looking to collaborate on **React Native**
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend (Learning):** Node.js, Express.js  
+- **Tools & Platforms:** Git, GitHub, VS Code, Firebase, Vercel  
 
-- 🤝 I’m looking for help with **frontend project**
+---
 
-- 💬 Ask me about **I am a passionate Frontend Developer and an aspiring Native Developer with a goal to build impactful, user-friendly web applications and mobile apps. Currently, I’m exploring React Native, Node.js, and Next.js to expand my skills. I am always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.**
+### 📊 GitHub Stats
+![Affan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-Affan-Code&show_icons=true&theme=tokyonight)  
 
-- 📫 How to reach me **mohdaffujkhan@gmail.com**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Affan-Code&layout=compact&theme=tokyonight)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohdaffan09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohdaffan09/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🏆 Achievements & Highlights
+- 💻 Built multiple frontend projects using React & Next.js  
+- ⚙️ Created dynamic e-commerce apps with JSON Server  
+- 🧠 Currently learning AI integration with web apps  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd-affan-code&show_icons=true&locale=en&layout=compact" alt="mohd-affan-code" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-affan-code&show_icons=true&locale=en" alt="mohd-affan-code" /></p>
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohd%20Affan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohdaffan09/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge&logo=vercel)](https://mohdaffanportfolio.vercel.app/)  
+
+---
+
+### ✨ Fun Fact
+I believe that every problem has a solution — you just need the right mindset to find it 💭
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!** ⭐
