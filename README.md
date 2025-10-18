@@ -23,7 +23,7 @@
 ---
 
 ### 🏆 Achievements & Highlights
-- 💻 Built multiple frontend projects using React & Next.js  
+- 💻 Built multiple frontend projects using React.js  
 - ⚙️ Created dynamic e-commerce apps with JSON Server  
 - 🧠 Currently learning AI integration with web apps  
 
